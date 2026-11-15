@@ -1,0 +1,6 @@
+ratings.json
+ratings.json.bak
+hq_settings.json
+*.db
+_thumbnails_hq/
+__pycache__/
